@@ -19,4 +19,8 @@ This app uses the OpenWeatherMap API to fetch weather data.
 Enter the city name in the search box and press Enter.
 The app will display the current weather details for the specified city.
 
+## Screenshots
+
+![App Screenshot](weather-app.png)
+
 
