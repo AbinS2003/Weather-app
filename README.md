@@ -23,4 +23,6 @@ The app will display the current weather details for the specified city.
 
 ![App Screenshot](weather-app.png)
 
+## Live Demo
+Check out the live version [here](https://abins2003.github.io/Weather-app/).
 
